@@ -21,7 +21,7 @@ export const Hero = () => {
               <span>
                 <ReactTypingEffect
                   text={[
-                    "DevSecOps Engineer.",
+                    "Bussiness .",
                     "DevOps Enthusiast.",
                     "Cybersecurity Learner.",
                     "Aspiring Researcher.",
