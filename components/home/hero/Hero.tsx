@@ -12,7 +12,7 @@ export const Hero = () => {
         <div className={styles.leftContent}>
           <Reveal>
             <h1 className={styles.title}>
-              Krishna Neupane<span>.</span>
+              Anup Paudel <span>.</span>
             </h1>
           </Reveal>
           <Reveal>
