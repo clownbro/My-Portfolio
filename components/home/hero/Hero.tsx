@@ -21,10 +21,10 @@ export const Hero = () => {
               <span>
                 <ReactTypingEffect
                   text={[
-                    "Bussiness .",
-                    "DevOps Enthusiast.",
-                    "Cybersecurity Learner.",
-                    "Aspiring Researcher.",
+                    "Strategy Analyst.",
+                    "Business Analyst.",
+                    "Data Analyst.",
+                    "Fintech Enthusiast.",
                   ]}
                   speed={40}
                   eraseSpeed={40}

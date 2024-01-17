@@ -61,7 +61,7 @@ export const Contact = () => {
               </span>
               <br />
               <Link
-                href="https://medium.com/@neupane.krishna33"
+                href="https://medium.com/@anup-paudel1995"
                 target="_blank"
                 rel="nofollow"
               >
@@ -70,7 +70,7 @@ export const Contact = () => {
               | {" "}
               <Link
                 style={{ paddingRight: 5 }}
-                href="https://www.linkedin.com/in/krishna-neupane-50082091/"
+                href="https://www.linkedin.com/in/paudelanup/"
                 target="_blank"
                 rel="nofollow"
               >
@@ -78,7 +78,7 @@ export const Contact = () => {
               </Link>
               | {" "}
               <Link
-                href="https://www.instagram.com/makeajourneywithkrishna/"
+                href="https://www.instagram.com/anuppaud1996/"
                 target="_blank"
                 rel="nofollow"
               >
