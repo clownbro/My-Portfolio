@@ -57,7 +57,7 @@ const projects = [
   {
     title: "Automatic Bitbucket Pipeline-To-Kubernetes",
     imgSrc: "/project-imgs/bitbucket-pipeline.png",
-    code: "https://github.com/Anup-commits/automation-bitbucket-to-kubernetes-deployment",
+    code: "https://github.com/clownbro/automation-bitbucket-to-kubernetes-deployment",
     projectLink: "https://project.neupaneAnup.com.np/automatic-bitbucket-pipeline-to-kubernetes",
     tech: ["Automation", "Bitbucket", "bitbucket-pipelines", "Kubernetes", "AWS", "AWS-ECR"],
     description:
@@ -89,8 +89,8 @@ const projects = [
   {
     title: "Kubernetes-cheatsheet",
     imgSrc: "/project-imgs/kubernetes-cheatsheet.png",
-    code: "https://github.com/Anup-commits/Anup-commits/tree/kubernetes-cheat-sheet",
-    projectLink: "https://github.com/Anup-commits/Anup-commits/tree/kubernetes-cheat-sheet",
+    code: "https://github.com/clownbro/clownbro/tree/kubernetes-cheat-sheet",
+    projectLink: "https://github.com/clownbro/clownbro/tree/kubernetes-cheat-sheet",
     tech: ["Kubernetes-cheatsheet"],
     description:
       "A cheat sheet for Kubernetes commands.",
@@ -121,7 +121,7 @@ const projects = [
   {
     title: "Create AWS ECS using terraform script.",
     imgSrc: null,
-    code: "https://github.com/Anup-commits/aws_ecs_using_terraform",
+    code: "https://github.com/clownbro/aws_ecs_using_terraform",
     projectLink: "https://medium.com/@neupane.Anup33/create-aws-ecs-using-terraform-script-be140caf10ad",
     tech: ["AWS","Terraform","ECS"],
     description:

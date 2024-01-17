@@ -7,7 +7,7 @@ const GitHubRepos = () => {
   useEffect(() => {
     const fetchRepos = async () => {
       try {
-        const response = await fetch('https://api.github.com/users/Anup-commits/repos');
+        const response = await fetch('https://api.github.com/users/clownbro/repos');
         const data = await response.json();
         setRepos(data);
       } catch (error) {
