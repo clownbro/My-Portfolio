@@ -7,7 +7,7 @@ const MediumPosts = () => {
   useEffect(() => {
     const fetchPosts = async () => {
       try {
-        const response = await fetch(`https://api.rss2json.com/v1/api.json?rss_url=https://medium.com/feed/@neupane.krishna33`);
+        const response = await fetch(`https://api.rss2json.com/v1/api.json?rss_url=https://medium.com/feed/@neupane.Anup33`);
         const data = await response.json();
         setPosts(data.items);
       } catch (error) {

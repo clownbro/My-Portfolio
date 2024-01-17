@@ -73,8 +73,8 @@ export const SideBar = () => {
       <Link href="/">
 
       <Image
-        className="logo-krishna"
-          src="/project-imgs/krishnalogo.png"
+        className="logo-Anup"
+          src="/project-imgs/Anuplogo.png"
           width={45}
           height={45}
           alt="Picture of the author"

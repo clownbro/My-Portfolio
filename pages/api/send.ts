@@ -14,8 +14,8 @@ export default async (req: NextApiRequest, res: NextApiResponse) => {
     }
 
     const { data, error } = await resend.emails.send({
-      from: `${name} <portfolio@neupanekrishna.com.np>`,
-      to: ['neupanekrishna33@gmail.com'],
+      from: `${name} <portfolio@neupaneAnup.com.np>`,
+      to: ['neupaneAnup33@gmail.com'],
       subject: `${name} has a message!`,
       react: EmailTemplate({ name, email, message, phone }), // Use the extracted name value
     });

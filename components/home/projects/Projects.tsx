@@ -57,8 +57,8 @@ const projects = [
   {
     title: "Automatic Bitbucket Pipeline-To-Kubernetes",
     imgSrc: "/project-imgs/bitbucket-pipeline.png",
-    code: "https://github.com/krishna-commits/automation-bitbucket-to-kubernetes-deployment",
-    projectLink: "https://project.neupanekrishna.com.np/automatic-bitbucket-pipeline-to-kubernetes",
+    code: "https://github.com/Anup-commits/automation-bitbucket-to-kubernetes-deployment",
+    projectLink: "https://project.neupaneAnup.com.np/automatic-bitbucket-pipeline-to-kubernetes",
     tech: ["Automation", "Bitbucket", "bitbucket-pipelines", "Kubernetes", "AWS", "AWS-ECR"],
     description:
       "Automating the deployment process from Bitbucket Pipelines to Kubernetes involves setting up a continuous integration/continuous deployment (CI/CD) pipeline.",
@@ -73,8 +73,8 @@ const projects = [
   {
     title: "centralize logs with rsyslog logstash elasticsearch and kibana",
     imgSrc: "/project-imgs/centrilized .png",
-    code: "https://project.neupanekrishna.com.np/how-to-centralize-logs-with-rsyslog-logstash-elasticsearch-and-kibana-on-ubuntu-2004",
-    projectLink: "https://project.neupanekrishna.com.np/how-to-centralize-logs-with-rsyslog-logstash-elasticsearch-and-kibana-on-ubuntu-2004",
+    code: "https://project.neupaneAnup.com.np/how-to-centralize-logs-with-rsyslog-logstash-elasticsearch-and-kibana-on-ubuntu-2004",
+    projectLink: "https://project.neupaneAnup.com.np/how-to-centralize-logs-with-rsyslog-logstash-elasticsearch-and-kibana-on-ubuntu-2004",
     tech: ["Centralize", "logs", "rsyslog", "logstash", "elasticsearch", "kibana", "ubuntu 20.04"],
     description:
       "How to centralize logs with rsyslog logstash elasticsearch and kibana on Ubuntu 20.04",
@@ -89,8 +89,8 @@ const projects = [
   {
     title: "Kubernetes-cheatsheet",
     imgSrc: "/project-imgs/kubernetes-cheatsheet.png",
-    code: "https://github.com/krishna-commits/krishna-commits/tree/kubernetes-cheat-sheet",
-    projectLink: "https://github.com/krishna-commits/krishna-commits/tree/kubernetes-cheat-sheet",
+    code: "https://github.com/Anup-commits/Anup-commits/tree/kubernetes-cheat-sheet",
+    projectLink: "https://github.com/Anup-commits/Anup-commits/tree/kubernetes-cheat-sheet",
     tech: ["Kubernetes-cheatsheet"],
     description:
       "A cheat sheet for Kubernetes commands.",
@@ -105,8 +105,8 @@ const projects = [
   {
     title: "1Password Vault integration to the Python project",
     imgSrc: "/project-imgs/1password.png",
-    code: "https://medium.com/@neupane.krishna33/1password-vault-integration-to-the-python-project-fadb2455d66c",
-    projectLink: "https://medium.com/@neupane.krishna33/1password-vault-integration-to-the-python-project-fadb2455d66c",
+    code: "https://medium.com/@neupane.Anup33/1password-vault-integration-to-the-python-project-fadb2455d66c",
+    projectLink: "https://medium.com/@neupane.Anup33/1password-vault-integration-to-the-python-project-fadb2455d66c",
     tech: ["1password", "Python", "Docker"],
     description:
       "1Password Vault integration can be useful for securely storing and managing sensitive information such as passwords, API keys, and access tokens. ",
@@ -121,8 +121,8 @@ const projects = [
   {
     title: "Create AWS ECS using terraform script.",
     imgSrc: null,
-    code: "https://github.com/krishna-commits/aws_ecs_using_terraform",
-    projectLink: "https://medium.com/@neupane.krishna33/create-aws-ecs-using-terraform-script-be140caf10ad",
+    code: "https://github.com/Anup-commits/aws_ecs_using_terraform",
+    projectLink: "https://medium.com/@neupane.Anup33/create-aws-ecs-using-terraform-script-be140caf10ad",
     tech: ["AWS","Terraform","ECS"],
     description:
       "Creating an Amazon Elastic Container Service (ECS) using Terraform involves defining the infrastructure as code and deploying it to AWS. Terraform scripts can be used to create and manage all the resources required for an ECS, including the cluster, tasks, services, load balancers, and networking components. Terraform automates the process of provisioning and configuring the resources, which can help reduce errors and improve the efficiency of the deployment process.",
@@ -136,7 +136,7 @@ const projects = [
     title: "How to Install Apache Kafka and rsyslog on Ubuntu 20.04",
     imgSrc: null,
     code: "",
-    projectLink: "https://medium.com/@neupane.krishna33/how-to-install-apache-kafka-and-rsyslog-on-ubuntu-20-04-90fea750d8f5",
+    projectLink: "https://medium.com/@neupane.Anup33/how-to-install-apache-kafka-and-rsyslog-on-ubuntu-20-04-90fea750d8f5",
     tech: ["Apache", "Kafka", "Rsyslog", "Ubuntu"],
     description:
       "Install Apache Kafka and rsyslog on Ubuntu 20.04",
